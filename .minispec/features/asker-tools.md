@@ -1,5 +1,7 @@
 # Writing, checking and generating Asker questions, and reviewing them
 
+Issue: [#1](https://github.com/falkenslab/asker-mcp/issues/1)
+
 ## Goal
 
 A teacher's agent drafts an Asker definitions file from notes, checks it, generates questions from it, and reviews them with the teacher before they're imported into Moodle.
