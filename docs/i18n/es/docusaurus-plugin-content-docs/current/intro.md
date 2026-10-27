@@ -4,9 +4,9 @@ sidebar_label: Introducción
 slug: /
 ---
 
-# mcp-server-template
+# asker-mcp
 
-A Falken's Lab MCP server.
+Asker for AI agents: definitions files checked, questions generated and reviewed, through MCP.
 
 Es un servidor [MCP](https://modelcontextprotocol.io): una aplicación de IA (Claude Code, Claude Desktop, un agente hecho con [agent-kit](https://falkenslab.github.io/agent-kit/)) lo arranca y obtiene sus herramientas. Tú no llamas a las herramientas: pides lo que necesitas con tus palabras, y el agente las elige.
 
